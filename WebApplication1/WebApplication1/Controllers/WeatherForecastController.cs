@@ -22,6 +22,10 @@ namespace WebApplication1.Controllers
         {
             var xxx = 198;
             var dsfsdf = "đasasd";
+            var xxx = 198;
+            var dsfsdf = "đasasd";
+            var xxx = 198;
+            var dsfsdf = "đasasd";
             _logger = logger;
         }
 
