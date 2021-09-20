@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+BaLj+t4X7h9e01BASwlYK3w3FjwFlufb45ySY58xL9jn+h6cAX0BxSLnYgBQXTOs4OD8HTxneFENklMX2FWQ==",
+  "success": true,
+  "projectFilePath": "E:\\demo-test\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
